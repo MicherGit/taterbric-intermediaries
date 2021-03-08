@@ -105,8 +105,7 @@ publishing {
 			maven {
 				url 'https://repo.repsy.io/mvn/zeta/taterbric/'
 				credentials {
-					username 'USERNAME'
-					password 'PASSWORD'
+
 				}
 			}
 	}
