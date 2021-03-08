@@ -2259,7 +2259,6 @@ FIELD	net/minecraft/client/p	Lnet/minecraft/client/d;	z	field_1073
 METHOD	net/minecraft/client/p	()V	a	method_661
 METHOD	net/minecraft/client/p	(I)Ljava/lang/String;	a	method_662
 METHOD	net/minecraft/client/p	(II)V	a	method_663
-METHOD	net/minecraft/client/p	()V	b	method_664
 METHOD	net/minecraft/client/p	(I)Ljava/lang/String;	b	method_665
 METHOD	net/minecraft/client/p	(II)V	b	method_666
 CLASS	net/minecraft/client/q	net/minecraft/client/q
