@@ -834,8 +834,6 @@ METHOD	net/minecraft/a/a/b/x	(FFFFFF)V	a	method_84
 METHOD	net/minecraft/a/a/b/x	(I)I	a	method_85
 METHOD	net/minecraft/a/a/b/x	(II)I	a	method_86
 METHOD	net/minecraft/a/a/b/x	(III)Lnet/minecraft/a/d/b;	a	method_116
-METHOD	net/minecraft/a/a/b/x	(ILjava/util/Random;)I	a	method_87
-METHOD	net/minecraft/a/a/b/x	(Ljava/util/Random;)I	a	method_89
 METHOD	net/minecraft/a/a/b/x	(Lnet/minecraft/a/a/f;III)Z	a	method_90
 METHOD	net/minecraft/a/a/b/x	(Lnet/minecraft/a/a/f;IIII)I	a	method_91
 METHOD	net/minecraft/a/a/b/x	(Lnet/minecraft/a/a/f;IIILnet/minecraft/a/c/e/a;)Z	a	method_95
